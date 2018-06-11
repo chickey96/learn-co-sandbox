@@ -1,0 +1,13 @@
+var state = "neutral"
+
+if (state === "down"){
+  console.log("Find some friends!")
+  }
+else
+  if (state === "up"){
+    console.log("Be productive!")
+    }
+    else
+      if (state === "neutral"){
+        console.log("Keep on keepin on!")
+        }
